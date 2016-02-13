@@ -1,0 +1,4 @@
+cmd1:param1="a",param2="b";
+cmd2:param1="b",param2="c";	//something ^_^ @cmd1, cmd2.param1=cmd3.param2, (cmd2.param2), 
+
+cmd3:param1="b",param2="c";	//something2
